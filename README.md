@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Canh Tran
+# 👋 Hi, I'm Canh
 
 ### 🚀 Software Engineer | Performance Enthusiast | Open Source Contributor
 
