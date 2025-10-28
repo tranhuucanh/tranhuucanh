@@ -115,11 +115,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranhuucanh&theme=tokyonight" alt="Profile Details"/>
 
   <!-- Main stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tranhuucanh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tranhuucanh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhuucanh&layout=compact&langs_count=8&theme=tokyonight"/>
 
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranhuucanh&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhuucanh&theme=tokyo-night" alt="Activity Graph"/>
 
   <!-- Stars & Followers -->
   <br>
