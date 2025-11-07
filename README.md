@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Canh
+# 👋 Hi, I'm 0xTh3OKrypt
 
 ### 🚀 Software Engineer | Performance Enthusiast | Open Source Contributor
 
