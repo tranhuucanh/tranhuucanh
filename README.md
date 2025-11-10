@@ -6,7 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/tranhuucanh/fastqr">
-    <img src="https://img.shields.io/badge/Creator%20of-FastQR-FF6B6B?style=for-the-badge&logo=qr&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastQR-QR%20Generator-FF6B6B?style=for-the-badge&logo=qr&logoColor=white" />
+  </a>
+  <a href="https://github.com/tranhuucanh/mcp-shellkeeper">
+    <img src="https://img.shields.io/badge/ShellKeeper-MCP%20Server-00D9FF?style=for-the-badge&logo=terminal&logoColor=white" />
   </a>
 </p>
 
@@ -22,30 +25,48 @@
 
 **What I bring to the table:**
 - ⚡ **Performance First**: Creator of FastQR - proving that speed matters
+- 🤖 **MCP Tools**: Building MCP servers for practical workflows
 - 🏗️ **Full-Stack Expertise**: From system design to pixel-perfect UIs
 - 🔧 **Pragmatic Approach**: Right tool for the right job - I don't marry technologies
 - 🚀 **Continuous Learner**: Always exploring new patterns and optimizations
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [FastQR](https://github.com/tranhuucanh/fastqr) ⚡
-
 **The fastest QR code generator on the planet**
 
-🚀 Generates **1000 QR codes in 0.37 seconds**
+🚀 **Generates 1000 QR codes in 0.37 seconds**
+
+- C++ core with Ruby, PHP, Node.js bindings
+- Custom colors & logo embedding
+- Pre-built binaries included
 
 [![Stars](https://img.shields.io/github/stars/tranhuucanh/fastqr?style=social)](https://github.com/tranhuucanh/fastqr)
-[![Forks](https://img.shields.io/github/forks/tranhuucanh/fastqr?style=social)](https://github.com/tranhuucanh/fastqr/fork)
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()
-[![License: LGPL v2.1](https://img.shields.io/badge/License-LGPL_v2.1-blue.svg?style=flat-square)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/tranhuucanh/fastqr?style=flat-square)]()
+</td>
+<td width="50%" valign="top">
 
-</div>
+### [ShellKeeper MCP](https://github.com/tranhuucanh/mcp-shellkeeper) 🤖
+**Persistent terminal sessions for AI agents**
+
+🎯 **Stateful → Stateless solved**
+
+- Persistent SSH sessions
+- File transfer through SSH
+- Works with Cursor, Claude Code
+- Production debugging automation
+
+[![Stars](https://img.shields.io/github/stars/tranhuucanh/mcp-shellkeeper?style=social)](https://github.com/tranhuucanh/mcp-shellkeeper)
+
+</td>
+</tr>
+</table>
 
 ---
 
